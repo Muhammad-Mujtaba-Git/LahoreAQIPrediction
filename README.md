@@ -2,7 +2,7 @@
 
 **A real-time predictive dashboard for monitoring Air Quality (PM2.5) using Satellite Data and Statistical Machine Learning.**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lahoreaqiprediction-xmuha45svcjj4crqyyt2w4.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -59,4 +59,4 @@ While the model parameters `(8, 0, 1)` are fine-tuned for the heavy, stagnant sm
 This project is open-source. Feel free to fork the repository and tweak the ARIMA parameters (`order=(8,0,1)`) to optimize the model for your own city's weather patterns!
 
 ---
-*Developed by **Muhammad Mujtaba** | [LinkedIn Profile Link]*
+*Developed by **Muhammad Mujtaba** | [LinkedIn Profile](https://www.linkedin.com/in/muhammad-mujtaba-ml/)*
