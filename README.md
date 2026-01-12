@@ -9,7 +9,7 @@
 ## Overview
 Lahore Air Guard is an advanced intelligence tool designed to tackle the air pollution crisis in South Asia. Unlike standard weather apps that only show *current* readings, this engine uses an **ARIMA (AutoRegressive Integrated Moving Average)** model to forecast pollution trends **24 hours into the future**.
 
-While the model parameters `(8, 0, 1)` are fine-tuned for the heavy, stagnant smog of **Lahore**, the underlying engine is universal—allowing users to track and predict air quality for **any city in the world** (New York, London, Tokyo, etc.) via the Custom Search feature.
+While the model parameters `(8, 0, 1)` are fine-tuned for the heavy, stagnant smog of **Lahore**, the underlying engine is universal allowing users to track and predict air quality for **any city in the world** (New York, London, Tokyo, etc.) via the Custom Search feature.
 
 ## Key Features
 
